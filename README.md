@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Şahin TÜTER</h1>
-<h3 align="center">Junior</h3>
+<h3 align="center">Junior .Net Developer</h3>
 
 - 💬 Ask me about **C#, Python, HTML,CSS JavaScript**
 
