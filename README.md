@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Şahin TÜTER</h1>
 <h3 align="center">Junior .NET Developer</h3>
 
-- 💬 Ask me about **C#, Python, HTML,CSS JavaScript**
+- 💬 Ask me about **C#, Python, HTML,CSS **
 
 - 📫 How to reach me **sahintuter000@gmail.com**
 
