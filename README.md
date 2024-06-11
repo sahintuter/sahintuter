@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Şahin TÜTER</h1>
-<h3 align="center">Unity | .NET </h3>
+<h3 align="center">Unity | Unity </h3>
 
 - 👨‍💻 All of my projects are available at [sahintuter.dev](sahintuter.dev)
 
-- 💬 Ask me about **Flutter, C#, Python**
+- 💬 Ask me about **Flutter, C#, Unity**
 
 - 📫 How to reach me **sahintuter000@gmail.com**
 
