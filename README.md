@@ -14,4 +14,4 @@
 </p><center>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahintuter&show_icons=true&locale=en&layout=compact" alt="sahintuter" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahintuter" alt="sahintuter" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahintuter&" alt="sahintuter" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahintuter" alt="sahintuter" /></p>
