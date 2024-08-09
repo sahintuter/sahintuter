@@ -5,7 +5,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{sahintuter}/count.svg" alt="sahintuter :: Visitor's Count" /></p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahintuter&label=Profile%20views&color=0e75b6&style=flat" alt="anil-yelken" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahintuter&label=Profile%20views&color=0e75b6&style=flat" alt="sahintuter" /> </p>
+
 <p align="center"> <a href="https://instagram.com/sahin_tuter" target="blank"><img src="https://img.shields.io/badge/Connected%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sahin" /></a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
